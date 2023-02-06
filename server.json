@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "Venda",
+      "price": 11000,
+      "createdAt": "2023-01-30T00:06:58.646Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-01-30T00:04:58.646Z"
+    },
+    {
+      "description": "Aluguel",
+      "price": 2200,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2023-01-30T15:57:40.005Z",
+      "id": 3
+    },
+    {
+      "description": "Whey",
+      "price": 109,
+      "category": "Suplementação",
+      "type": "outcome",
+      "createdAt": "2023-01-30T16:09:05.871Z",
+      "id": 4
+    }
+  ]
+}
