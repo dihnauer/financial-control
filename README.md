@@ -12,7 +12,7 @@ O app se baseia em um sistema de controle financeiro, podendo adicionar entradas
 ### Como executar
 Para executar e testar a aplicação, clone este repositório, execute ``npm i`` para instalar as dependências, execute ``npm run dev`` para iniciar o servidor e execute ``npm run dev:server`` para iniciar o servidor back-end.
 
-Desenvolvimento
+### Desenvolvimento
 Para a criação deste projeto, foi utilizado:
 
 - Vite
